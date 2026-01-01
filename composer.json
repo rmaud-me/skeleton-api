@@ -9,7 +9,7 @@
         "ext-iconv": "*",
         "api-platform/doctrine-orm": ">=4.2.11",
         "api-platform/symfony": ">=4.2.11",
-        "doctrine/doctrine-migrations-bundle": "^3.7",
+        "doctrine/doctrine-migrations-bundle": "^4.0",
         "doctrine/orm": "^3.6",
         "nelmio/cors-bundle": "^2.6",
         "phpdocumentor/reflection-docblock": "^5.6",
